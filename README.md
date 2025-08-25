@@ -33,12 +33,3 @@ Tasks are categorized into Beginner, Intermediate, and Advanced levels.
   - Missed Run Out = -3  
 
 📊 Visualized Top 5 Fielders and exported final results to `fielding_scores.xlsx`.
-
----
-
-## 🎥 Proof of Work
-- Code uploaded to GitHub  
-- Screenshots of outputs  
-- Short video explanation of Advanced Project posted on LinkedIn  
-
----
