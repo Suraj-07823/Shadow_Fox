@@ -36,26 +36,6 @@ Tasks are categorized into Beginner, Intermediate, and Advanced levels.
 
 ---
 
-## 📂 Repository Structure
-
-ShadowFox/
-├── Beginner_Tasks/
-│ ├── variables.py
-│ ├── numbers.py
-│ ├── lists.py
-│ ├── if_conditions.py
-│ ├── dictionaries.py
-├── Intermediate_Tasks/
-│ ├── web_scraper.py
-│ ├── hangman.py
-├── Advanced_Tasks/
-│ ├── fielding_analysis.py
-│ ├── fielding_analysis.ipynb
-│ ├── fielding_scores.xlsx
-└── README.md
-
----
-
 ## 🎥 Proof of Work
 - Code uploaded to GitHub  
 - Screenshots of outputs  
